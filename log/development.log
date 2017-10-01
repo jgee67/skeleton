@@ -1,0 +1,14 @@
+Started GET "/" for ::1 at 2017-10-01 15:21:37 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/juliangee/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/juliangee/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (5.3ms)
+Completed 200 OK in 128ms (Views: 8.5ms)
+
+
+Started GET "/" for ::1 at 2017-10-01 15:30:04 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/juliangee/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/juliangee/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (2.7ms)
+Completed 200 OK in 106ms (Views: 5.8ms)
+
+
