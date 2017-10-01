@@ -6,6 +6,7 @@ gem 'rails', '~> 5.1.4'
 gem 'pg', '~> 0.18'
 
 group :development, :test do
+  gem 'rspec-rails'
 end
 
 group :development do
